@@ -38,7 +38,7 @@ Built independently using AI tools and documentation to showcase adaptability an
 ![Login](./public/Screenshots/Login.png)
 
 ### Home Page  
-![Home](./public/Screenshots/Home.png)
+![Home](./public/Screenshots/Home Page.png)
 
 ### Add Food Form  
 ![Add Food](<./public/Screenshots/Add Food.png>)
