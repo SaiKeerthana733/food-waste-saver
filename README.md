@@ -41,11 +41,11 @@ Built independently using AI tools and documentation to showcase adaptability an
 ![Home](./public/Screenshots/Home.png)
 
 ### Add Food Form  
-![Add Food](./public/Screenshots/Add Food.png)
+![Add Food](<./public/Screenshots/Add Food.png>)
 
 ### Donations List  
-![My Donations](./public/Screenshots/My Donations.png)  
-![All Donations](./public/Screenshots/All Donations.png)
+![My Donations](<./public/Screenshots/My Donations.png>)  
+![All Donations](<./public/Screenshots/All Donations.png>)
 
 ### Logout Confirmation Modal  
 ![Logout Modal](./public/Screenshots/Logout.png)
