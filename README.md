@@ -1,36 +1,75 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Food Waste Saver 🍱
 
-## Getting Started
+A responsive food donation platform built using unfamiliar technologies (Next.js, Tailwind CSS) to prove rapid learning, problem-solving, and impact-driven development. Designed to reduce food waste by connecting donors with recipients before food expires.
 
-First, run the development server:
+---
+
+## 🚀 Features
+
+- ✅ Client-side authentication using localStorage
+- ✅ Protected routes and login flow
+- ✅ Smart form validation for food donations
+- ✅ Responsive UI with gradient themes and confirmation modals
+- ✅ Logout confirmation modal for clean UX
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: Next.js (App Router), React, TypeScript
+- **Styling**: Tailwind CSS
+- **State & Auth**: LocalStorage
+- **Design**: Gradient UI, accessible forms, responsive layout
+
+---
+
+## 🎯 Purpose
+
+Built independently using AI tools and documentation to showcase adaptability and initiative. This project demonstrates my ability to learn unfamiliar technologies and deliver a fully functional, recruiter-polished product.
+
+---
+
+## 📸 Screenshots
+
+### Register Page
+![Login](./public/screenshots/Register.png)
+
+### Login Page
+![Login](./public/screenshots/Login.png)
+
+### Home Page
+![Login](./public/screenshots/Home.png)
+
+### Add Food Form
+![Add Food](./public/screenshots/Add Food.png)
+
+### Donations List
+![Donations](./public/screenshots/My Donations.png)
+![Donations](./public/screenshots/All Donations.png)
+
+### Logout Confirmation Modal
+![Logout Modal](./public/screenshots/Logout.png)
+
+---
+
+## 📦 Getting Started
+
+To run the project locally:
 
 ```bash
+# Install dependencies
+npm install
+
+# Start the development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 👩‍💻 Author
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+**Sai Keerthana Adi**  
+📧 adisaikeerthana@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/adi-sai-keerthana-022145244)  
+🔗 [GitHub](https://github.com/SaiKeerthana733)
