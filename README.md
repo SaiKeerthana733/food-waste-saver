@@ -31,24 +31,25 @@ Built independently using AI tools and documentation to showcase adaptability an
 
 ## 📸 Screenshots
 
-### Register Page
-![Login](./public/screenshots/Register.png)
+### Register Page  
+![Register](./public/Screenshots/Register.png)
 
-### Login Page
-![Login](./public/screenshots/Login.png)
+### Login Page  
+![Login](./public/Screenshots/Login.png)
 
-### Home Page
-![Login](./public/screenshots/Home.png)
+### Home Page  
+![Home](./public/Screenshots/Home.png)
 
-### Add Food Form
-![Add Food](./public/screenshots/Add Food.png)
+### Add Food Form  
+![Add Food](./public/Screenshots/Add Food.png)
 
-### Donations List
-![Donations](./public/screenshots/My Donations.png)
-![Donations](./public/screenshots/All Donations.png)
+### Donations List  
+![My Donations](./public/Screenshots/My Donations.png)  
+![All Donations](./public/Screenshots/All Donations.png)
 
-### Logout Confirmation Modal
-![Logout Modal](./public/screenshots/Logout.png)
+### Logout Confirmation Modal  
+![Logout Modal](./public/Screenshots/Logout.png)
+
 
 ---
 
